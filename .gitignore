@@ -1,0 +1,53 @@
+# IDE and Editor Configuration
+.idea/
+.vscode/
+*.iml
+# Python Cache and Build Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+# SQLite Database Files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+# Temporary and Backup Files
+*.tmp
+*.temp
+*.bak
+*.log
+*.swp
+*.swo
+*~
+~$*
+*.db.backup
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+# Local Backups
+backups/
+backup/
+#Local files to be Excluded
+/docs/csv_2_db.py
+/docs/SQL_Practice_masterprompt.md
+cmds.txt
+
