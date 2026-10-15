@@ -48,6 +48,7 @@ backups/
 backup/
 #Local files to be Excluded
 /docs/csv_2_db.py
+/docs/sql_day_initializer.py
 /docs/SQL_Practice_masterprompt.md
 cmds.txt
 
