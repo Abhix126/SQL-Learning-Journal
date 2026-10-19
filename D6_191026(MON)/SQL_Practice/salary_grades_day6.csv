@@ -1,0 +1,5 @@
+grade_id,grade_name,min_salary,max_salary
+1,Entry Level,30000,49999
+2,Junior,50000,64999
+3,Mid-Level,65000,79999
+4,Senior,80000,120000
