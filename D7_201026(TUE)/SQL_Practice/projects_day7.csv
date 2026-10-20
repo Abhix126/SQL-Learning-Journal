@@ -1,0 +1,16 @@
+project_id,project_name,emp_id,status,budget
+201,HR Management System,101,Active,500000
+202,Payroll Automation,103,Completed,350000
+203,Inventory Tracker,106,Active,400000
+204,Customer Analytics,111,Active,650000
+205,Employee Portal,119,Completed,300000
+206,Finance Dashboard,104,Active,450000
+207,Budget Forecasting,116,Planning,550000
+208,Recruitment Platform,102,Active,250000
+209,Marketing Insights,108,Completed,200000
+210,Sales Campaign Tracker,110,Active,280000
+211,Cloud Migration,101,Planning,800000
+212,API Gateway,106,Active,600000
+213,AI Research Assistant,,Planning,900000
+214,Mobile Task Manager,,Planning,350000
+215,Data Quality Monitor,112,Active,320000
